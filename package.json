@@ -1,0 +1,23 @@
+{
+  "name": "mern-backend-training",
+  "version": "1.0.0",
+  "description": "to learn about backend of mern stack",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "mongo",
+    "mern"
+  ],
+  "author": "wajahatFaryadAli",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
